@@ -10,7 +10,6 @@
     <artifactId>gameoflife-web</artifactId>
     <packaging>war</packaging>
     <name>gameoflife-web</name>
-<name>gameoflife-web</name>
 
     <properties>
         <jetty.port>9090</jetty.port>

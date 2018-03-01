@@ -20,7 +20,7 @@
             <property name="request.threads" value="20"/>
             <property name="request.loop" value="10"/>
         </jmeter>
-</jmeter>
+
     </target>
 
 </project>
