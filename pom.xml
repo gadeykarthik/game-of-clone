@@ -495,4 +495,20 @@
             </reporting>
         </profile>
     </profiles>
+	<distributionManagement>
+	
+	
+<snapshotRepository>
+
+<id>gamesnapshot</id>
+
+<name>gamesnapshot</name>
+
+<url>http://localhost:8081/nexus/content/repositories/gamesnapshot/</url>
+
+</snapshotRepository>
+
+</distributionManagement>
+
+</project>
 </project>
