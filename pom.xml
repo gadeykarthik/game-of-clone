@@ -499,12 +499,10 @@
 	
 	
 <snapshotRepository>
-
-<id>gamesnapshot</id>
-
-<name>gamesnapshot</name>
-
-<url>http://localhost:8081/nexus/content/repositories/gamesnapshot/</url>
+			<id>gamesnapshot</id>
+			    <name>gamesnapshot</name>
+				<url>http://localhost:8081/nexus/content/repositories/snapshots</url>
+		</snapshotRepository>
 
 </snapshotRepository>
 
