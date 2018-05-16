@@ -502,9 +502,7 @@
 			<id>gamesnapshot</id>
 			    <name>gamesnapshot</name>
 				<url>http://localhost:8081/nexus/content/repositories/snapshots</url>
-		</snapshotRepository>
-
-</snapshotRepository>
+	</snapshotRepository>
 
 </distributionManagement>
 
